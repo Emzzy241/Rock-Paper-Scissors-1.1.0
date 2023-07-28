@@ -1,7 +1,7 @@
 # Rock Paper Scissors C#
 #### made by Mojiboye Emmanuel
 
-#### A console game for playing Rock Paper scissors with computer.
+#### AN update to the already existing Rock Paper Scissors Console game
 
 ## Technologies Used
 
@@ -10,7 +10,7 @@
 * Git
 
 ## Description
-_This is A  console App that is capable of rolling a pair of dice between 2 players. _
+_An update has been made to ensure a great separation of concern was made to this game. In this version, I wrote out each Module for different asoect of the game._
 
 ## Setup/Installation
 * Open your git bash Terminal to Clone the Project with a (git clone _REPOSITORY_NAME_)
